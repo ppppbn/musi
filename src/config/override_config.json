@@ -1,22 +1,22 @@
 {
   "android": {
     "appName": "React Native Starter Kit",
-    "applicationId": "pro.thinhtran.treactnativestarterkit",
+    "applicationId": "sunao.mobile.starterkit",
     "codePush": {
       "productionKey": "",
       "stagingKey": ""
     }
   },
   "fb": {
-    "id": ""
+    "id": "798666070599590"
   },
   "ios": {
     "appName": "React Native Starter Kit",
-    "bundleId": "pro.thinhtran.treactnativestarterkit",
+    "bundleId": "sunao.mobile.starterkit",
     "codePush": {
       "productionKey": "",
       "stagingKey": ""
     }
   },
-  "sentryDns": ""
+  "sentryDns": "https://083d7d6b09f145ab90cd2d1681d33363@sentry.io/1530144"
 }

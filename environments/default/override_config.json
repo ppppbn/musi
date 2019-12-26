@@ -1,7 +1,7 @@
 {
   "android": {
     "appName": "React Native Starter Kit",
-    "applicationId": "pro.thinhtran.treactnativestarterkit",
+    "applicationId": "sunao.mobile.starterkit",
     "codePush": {
       "productionKey": "",
       "stagingKey": ""
@@ -12,7 +12,7 @@
   },
   "ios": {
     "appName": "React Native Starter Kit",
-    "bundleId": "pro.thinhtran.treactnativestarterkit",
+    "bundleId": "sunao.mobile.starterkit",
     "codePush": {
       "productionKey": "",
       "stagingKey": ""
